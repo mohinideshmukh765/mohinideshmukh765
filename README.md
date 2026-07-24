@@ -55,35 +55,14 @@ I'm a Computer Science student passionate about **Java Backend Development**.
 
 # 💼 Skills
 
-### Languages
-- Java
-- SQL
-- Python (Basic)
-
-### Backend
-- Spring Boot
-- Spring Security
-- Spring Data JPA
-- Hibernate
-- JDBC
-- REST APIs
-
-### Databases
-- MySQL
-- PostgreSQL
-
-### Frontend
-- React (Basic)
-
-### IDEs
-- IntelliJ IDEA
-- Eclipse
-- VS Code
-
-### Other
-- Machine Learning (Fundamentals)
-
----
+| Category | Technologies |
+|----------|--------------|
+| **Languages** | Java • SQL • Python (Basic) |
+| **Backend** | Spring Boot • Spring Security • Spring Data JPA • Hibernate • JDBC • REST APIs |
+| **Database** | MySQL • PostgreSQL |
+| **Frontend** | React (Basic) |
+| **Tools** | IntelliJ IDEA • Eclipse • VS Code • Git • GitHub |
+| **Other** | Machine Learning (Fundamentals) |---
 
 # 🚀 Featured Projects
 
