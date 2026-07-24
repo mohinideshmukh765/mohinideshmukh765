@@ -1,23 +1,27 @@
 <div align="center">
 
-# Hi 👋 I'm Mohini Deshmukh
+# Hi 👋, I'm Mohini Deshmukh
 
-### Java Backend Developer • Spring Boot • REST APIs • PostgreSQL • System Design Enthusiast
+### Java Backend Developer | Spring Boot | Spring Security | REST APIs
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1200&color=0EA5E9&center=true&vCenter=true&width=900&lines=Building+Scalable+Backend+Applications;Spring+Boot+Developer;REST+API+Designer;Always+Learning+New+Technologies;Open+to+Software+Engineering+Opportunities" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&pause=1200&color=0EA5E9&center=true&vCenter=true&width=850&lines=Java+Backend+Developer;Spring+Boot+Developer;Spring+Security+Enthusiast;Building+Backend+Applications;Always+Learning+🚀"/>
 
 <br>
 
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<a href="https://www.linkedin.com/in/mohinideshmukh1004/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:mohinideshmukh786@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/mohinideshmukh765">
 <img src="https://img.shields.io/github/followers/mohinideshmukh765?style=for-the-badge"/>
+</a>
+
+<a href="https://leetcode.com/u/mohinideshmukh10/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=mohinideshmukh765&style=for-the-badge&color=0e75b6"/>
@@ -26,70 +30,100 @@
 
 ---
 
-# 💫 About Me
+# 👩‍💻 About Me
 
-I'm a Computer Science student focused on **Java backend development**.
+I'm a Computer Science student passionate about **Java Backend Development**.
 
-I enjoy designing REST APIs, building secure Spring Boot applications, modelling relational databases, and understanding how production backend systems are designed.
+I enjoy designing REST APIs, developing secure backend applications using Spring Boot, and learning how production software is built.
 
-Currently exploring:
-
-- ☁️ Cloud & Deployment
-- 🐳 Docker
-- ⚙️ System Design
-- 📦 Distributed Systems
-- 🚀 Performance Optimisation
+I'm continuously improving my problem-solving skills through LeetCode and currently studying Microservices and System Design.
 
 ---
 
-# 🛠 Tech Stack
+# 🚀 Current Focus
+
+- 🌱 Learning Microservices
+- 🏗 Learning System Design
+- 💻 Practicing Data Structures & Algorithms on LeetCode
+- ☕ Strengthening Java & Spring Boot fundamentals
+
+---
+
+# 💻 Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,maven,hibernate,postgres,mysql,redis,docker,git,github,linux,idea,vscode,postman,python,flask,react&perline=8"/>
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,postgres,react,python,git,github,idea,eclipse,vscode&perline=6"/>
 
 </div>
 
 ---
 
-# 📚 Backend Technologies
+# ⚙ Backend Skills
 
-| Area | Technologies |
-|------|--------------|
-| Language | Java, Python |
-| Framework | Spring Boot, Spring MVC |
-| Security | Spring Security, JWT, OAuth2 |
-| ORM | Hibernate, Spring Data JPA |
-| Database | PostgreSQL, MySQL, Redis |
-| Build Tool | Maven |
-| API | REST APIs |
-| Version Control | Git & GitHub |
-| Tools | IntelliJ IDEA, Postman, Docker |
+### Languages
+
+- Java
+- SQL
+- Python (Basic)
+
+### Backend
+
+- Spring Boot
+- Spring Security
+- Spring Data JPA
+- Hibernate
+- JDBC
+- REST APIs
+
+### Database
+
+- MySQL
+- PostgreSQL
+
+### Frontend
+
+- React (Basic)
+
+### IDEs & Tools
+
+- IntelliJ IDEA
+- Eclipse
+- VS Code
+- Git
+- GitHub
+
+### Other
+
+- Machine Learning (Fundamentals)
 
 ---
 
 # 🚀 Featured Projects
 
-## 📚 BookSphere — Library Management System
+## 📚 BookSphere – Library Management System
 
-Enterprise-inspired Library Management System built with Spring Boot.
+A backend-focused Library Management System developed using Spring Boot.
 
-### Highlights
+### Key Features
 
-- 🔐 JWT Authentication
-- 👥 Role Based Access Control
-- 📚 Book Inventory Management
-- 📖 Borrow & Return Workflow
-- ⏰ Reservation Queue
-- 💰 Fine Management
-- ⭐ Reviews & Ratings
-- 💳 Razorpay Integration
-- 📊 Analytics Dashboard
+- JWT Authentication
+- Role-Based Authorization
+- Book Management
+- Borrow & Return
+- Reservation Queue
+- Fine Management
+- Reviews & Ratings
+- Razorpay Payment Integration
 
-**Tech**
+### Tech Stack
 
-`Java` `Spring Boot` `Spring Security` `PostgreSQL`
-`Hibernate` `JWT`
+`Java`
+`Spring Boot`
+`Spring Security`
+`Hibernate`
+`Spring Data JPA`
+`PostgreSQL`
 
 🔗 Repository
 
@@ -99,22 +133,24 @@ https://github.com/mohinideshmukh765/BookSphere-LibraryManagementSystem
 
 ## 🎓 UniEvent
 
-University Event Management Platform
+University Event Management Platform.
 
 ### Features
 
-- Event Registration
-- Student Management
+- Student Registration
+- Event Management
 - Email Notifications
-- QR Attendance
+- Payment Integration
 - Admin Dashboard
-- Payment Support
 
-**Tech**
+### Tech Stack
+
+`Java`
 
 `Spring Boot`
+
 `PostgreSQL`
-`JWT`
+
 `REST APIs`
 
 🔗 Repository
@@ -123,9 +159,9 @@ https://github.com/mohinideshmukh765/UniEvent
 
 ---
 
-## 🚗 Vehicle Insurance Fraud Detection
+## 🚗 Vehicle Insurance Fraud Detection System
 
-Machine Learning based Insurance Fraud Detection System.
+Machine Learning project for identifying fraudulent vehicle insurance claims.
 
 ### Features
 
@@ -133,15 +169,18 @@ Machine Learning based Insurance Fraud Detection System.
 - Random Forest Model
 - Flask Backend
 - React Frontend
-- MySQL
-- Analytics Dashboard
+- Data Analysis
 
-**Tech**
+### Tech Stack
 
 `Python`
+
 `Flask`
+
+`Machine Learning`
+
 `React`
-`Random Forest`
+
 `MySQL`
 
 🔗 Repository
@@ -150,13 +189,13 @@ https://github.com/mohinideshmukh765/Vehicle-Insurance-Fraud-Detection-System
 
 ---
 
-# 📈 GitHub Analytics
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mohinideshmukh765&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohinideshmukh765&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohinideshmukh765&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohinideshmukh765&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -164,13 +203,13 @@ https://github.com/mohinideshmukh765/Vehicle-Insurance-Fraud-Detection-System
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohinideshmukh765&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=mohinideshmukh765&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 📊 Contribution Graph
+# 📈 Contribution Graph
 
 <div align="center">
 
@@ -180,42 +219,21 @@ https://github.com/mohinideshmukh765/Vehicle-Insurance-Fraud-Detection-System
 
 ---
 
-# 🌱 Currently Learning
+# 📚 Currently Learning
 
 - Microservices
-- Docker
-- Kubernetes
-- Redis
-- Apache Kafka
-- Elasticsearch
-- AWS
 - System Design
+- Data Structures & Algorithms
 
 ---
 
-# 💡 Engineering Interests
+# 💡 Areas of Interest
 
-- Backend Architecture
-- Clean Code
-- SOLID Principles
-- RESTful API Design
-- Database Optimisation
-- Authentication & Authorization
-- Design Patterns
-- Scalable Software Systems
-
----
-
-# 📂 Repository Highlights
-
-| Repository | Description |
-|------------|-------------|
-| 📚 BookSphere | Enterprise Library Management System |
-| 🎓 UniEvent | University Event Management Platform |
-| 🚗 Vehicle Insurance Fraud Detection | ML-powered Fraud Detection |
-| 📖 DSA (Future) | Data Structures & Algorithms in Java |
-| 🏗️ System Design (Future) | HLD & LLD Notes |
-| ☕ Spring Boot Examples (Future) | Production-ready Spring Boot Examples |
+- Backend Development
+- Software Engineering
+- REST API Development
+- Database Design
+- Secure Application Development
 
 ---
 
@@ -223,26 +241,46 @@ https://github.com/mohinideshmukh765/Vehicle-Insurance-Fraud-Detection-System
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=mohinideshmukh765&theme=algolia&no-frame=true&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=mohinideshmukh765&theme=algolia&no-frame=true&column=4"/>
 
 </div>
 
 ---
 
-# 🤝 Let's Connect
+# 💻 LeetCode
 
 <div align="center">
 
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<a href="https://leetcode.com/u/mohinideshmukh10/">
+
+<img src="https://leetcard.jacoblin.cool/mohinideshmukh10?theme=dark&font=Poppins&ext=contest"/>
+
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+</div>
+
+---
+
+# 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/mohinideshmukh1004/">
+
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+
+</a>
+
+<a href="mailto:mohinideshmukh786@gmail.com">
+
 <img src="https://skillicons.dev/icons?i=gmail"/>
+
 </a>
 
 <a href="https://github.com/mohinideshmukh765">
+
 <img src="https://skillicons.dev/icons?i=github"/>
+
 </a>
 
 </div>
@@ -253,6 +291,6 @@ https://github.com/mohinideshmukh765/Vehicle-Insurance-Fraud-Detection-System
 
 ### ⭐ Thanks for visiting my profile!
 
-*"Code is not just about making software work—it's about designing systems that are maintainable, reliable, and solve real problems."*
+*"I enjoy building reliable backend applications, continuously learning new technologies, and solving challenging problems through code."*
 
 </div>
