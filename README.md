@@ -138,10 +138,10 @@ University Event Management Platform.
 ### Features
 
 - Student Registration
+- Admin Dashboard
+- coordinator Dasboard
 - Event Management
 - Email Notifications
-- Payment Integration
-- Admin Dashboard
 
 ### Tech Stack
 
@@ -189,33 +189,8 @@ https://github.com/mohinideshmukh765/Vehicle-Insurance-Fraud-Detection-System
 
 ---
 
-# 📊 GitHub Analytics
 
-<div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohinideshmukh765&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohinideshmukh765&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=mohinideshmukh765&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohinideshmukh765&theme=tokyo-night"/>
-
-</div>
 
 ---
 
@@ -237,13 +212,7 @@ https://github.com/mohinideshmukh765/Vehicle-Insurance-Fraud-Detection-System
 
 ---
 
-# 🏆 GitHub Trophies
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=mohinideshmukh765&theme=algolia&no-frame=true&column=4"/>
-
-</div>
 
 ---
 
