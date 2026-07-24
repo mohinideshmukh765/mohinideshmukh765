@@ -4,9 +4,9 @@
 
 # Hi 👋, I'm Mohini Deshmukh
 
-### Java Backend Developer | Spring Boot | Spring Security | REST APIs
+### Java Backend Developer • Spring Boot • Spring Security • REST APIs
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&pause=1200&color=0EA5E9&center=true&vCenter=true&width=850&lines=Java+Backend+Developer;Spring+Boot+Developer;Spring+Security+Enthusiast;Building+Backend+Applications;Always+Learning+🚀"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=0EA5E9&center=true&vCenter=true&width=850&lines=Java+Backend+Developer;Spring+Boot+Developer;Building+Secure+Backend+Applications;Always+Learning+🚀"/>
 
 <br>
 
@@ -32,18 +32,18 @@
 
 ---
 
-# 👩‍💻 About Me
+## 👩‍💻 About Me
 
-I'm a Computer Science student passionate about **Java Backend Development**.
+I'm a Computer Science student passionate about **Java Backend Development** and building secure, scalable backend applications.
 
-- 💻 Building secure backend applications using Spring Boot
+- 💻 Building RESTful backend applications using Spring Boot
 - 🔐 Interested in Authentication & Authorization
-- 📚 Practicing Data Structures & Algorithms on LeetCode
-- 🌱 Currently learning **Microservices** and **System Design**
+- 📚 Solving Data Structures & Algorithms problems on LeetCode
+- 🌱 Currently exploring **Microservices** and **System Design**
 
 ---
 
-# 🚀 Tech Stack
+## 🚀 Tech Stack
 
 <div align="center">
 
@@ -53,7 +53,7 @@ I'm a Computer Science student passionate about **Java Backend Development**.
 
 ---
 
-# 💼 Skills
+## 💼 Skills
 
 | Category | Technologies |
 |----------|--------------|
@@ -62,35 +62,61 @@ I'm a Computer Science student passionate about **Java Backend Development**.
 | **Database** | MySQL • PostgreSQL |
 | **Frontend** | React (Basic) |
 | **Tools** | IntelliJ IDEA • Eclipse • VS Code • Git • GitHub |
-| **Other** | Machine Learning (Fundamentals) |---
+| **Other** | Machine Learning (Fundamentals) |
 
-# 🚀 Featured Projects
+---
 
-## 📚 BookSphere
+## 🚀 Featured Projects
+
+### 📚 BookSphere – Library Management System
+
+Enterprise-inspired backend application featuring authentication, book management, borrowing workflows, reservations, reviews, and Razorpay integration.
 
 <a href="https://github.com/mohinideshmukh765/BookSphere-LibraryManagementSystem">
-<img src="assets/booksphere.png" width="100%">
+<img src="assets/booksphere.png" width="100%" alt="BookSphere"/>
 </a>
+
+<p align="center">
+<a href="https://github.com/mohinideshmukh765/BookSphere-LibraryManagementSystem">
+<b>⭐ View Repository</b>
+</a>
+</p>
 
 ---
 
-## 🎓 UniEvent
+### 🎓 UniEvent – Event Management Portal
+
+A centralized inter-college event management platform supporting role-based access, event registration, bulk onboarding, and automated email workflows.
 
 <a href="https://github.com/mohinideshmukh765/UniEvent">
-<img src="assets/unievent.png" width="100%">
+<img src="assets/unievent.png" width="100%" alt="UniEvent"/>
 </a>
+
+<p align="center">
+<a href="https://github.com/mohinideshmukh765/UniEvent">
+<b>⭐ View Repository</b>
+</a>
+</p>
 
 ---
 
-## 🚗 Vehicle Insurance Fraud Detection
+### 🚗 Vehicle Insurance Fraud Detection
+
+A machine learning-powered web application that predicts fraudulent vehicle insurance claims using Flask, React, MySQL, and a Random Forest model.
 
 <a href="https://github.com/mohinideshmukh765/Vehicle-Insurance-Fraud-Detection-System">
-<img src="assets/frauddetection.png" width="100%">
+<img src="assets/frauddetection.png" width="100%" alt="Vehicle Insurance Fraud Detection"/>
 </a>
+
+<p align="center">
+<a href="https://github.com/mohinideshmukh765/Vehicle-Insurance-Fraud-Detection-System">
+<b>⭐ View Repository</b>
+</a>
+</p>
 
 ---
 
-# 📚 Currently Learning
+## 📚 Currently Learning
 
 - Microservices
 - System Design
@@ -98,7 +124,7 @@ I'm a Computer Science student passionate about **Java Backend Development**.
 
 ---
 
-# 💻 LeetCode
+## 💻 LeetCode
 
 <div align="center">
 
@@ -110,7 +136,7 @@ I'm a Computer Science student passionate about **Java Backend Development**.
 
 ---
 
-# 🤝 Connect With Me
+## 🤝 Connect With Me
 
 <div align="center">
 
@@ -132,8 +158,8 @@ I'm a Computer Science student passionate about **Java Backend Development**.
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+### Thanks for visiting my profile!
 
-*"Building reliable backend applications while continuously learning and improving every day."*
+*Building reliable backend applications while continuously learning, solving problems, and improving as a software engineer.*
 
 </div>
